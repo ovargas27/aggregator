@@ -1,0 +1,3 @@
+Aggregator
+
+Collect wp pages, like RSS but with images
